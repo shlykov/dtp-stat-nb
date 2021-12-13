@@ -1,6 +1,6 @@
 # Анализ ДТП в России на основе открытых данных dtp-stat.ru
 
-См [блокнот](dtp-regions.ipynb)
+См [блокнот](1-Dtp-analysis.ipynb)
 
 
 
